@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>OnOFF.jpg</file>
+        <file>logo.jpeg</file>
+        <file>new_on_off.jpg</file>
+        <file>white_on_off.png</file>
+    </qresource>
+</RCC>
