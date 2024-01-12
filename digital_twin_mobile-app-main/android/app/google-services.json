@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403779880559",
+    "project_id": "digital-twin-31756",
+    "storage_bucket": "digital-twin-31756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403779880559:android:42968fcae61a14fbf26f9a",
+        "android_client_info": {
+          "package_name": "com.example.digital_twin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJWH2DOJ5txLo-696TknpHi_xjMcZ4-_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
