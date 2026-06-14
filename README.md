@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://img.youtube.com/vi/2erAi-fjoTE/maxresdefault.jpg" alt="FitCheck" width="600">
 
-  # FitCheck
+  # Fit Check
 
   **Technology and Health, Together**
 
