@@ -61,8 +61,3 @@ For the system to operate fully integrated, the hardware (Raspberry Pi), desktop
 - Mehmet Alperen Gülçimen
 - Enis Yalçın
 - Hikmet Mete Varol
-
-## 🔗 Relevant Links
-- 🎬 [FitCheck Official Trailer Video](https://www.youtube.com/watch?v=2erAi-fjoTE)
-- 🌐 [FitCheck Official Website](https://fitcheck-group3.my.canva.site/project)
-- 💻 [Project GitHub Repository](https://github.com/FitCheck23/FitCheck)
